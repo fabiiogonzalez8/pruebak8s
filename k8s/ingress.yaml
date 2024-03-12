@@ -13,4 +13,4 @@ spec:
           service:
             name: examen
             port:
-              number: 5002
+              number: 80
